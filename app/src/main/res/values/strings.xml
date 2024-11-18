@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TRABALHO_SEMESTRE_(ETAPA_1)_02_B2</string>
+
+    <string-array name="spinner_pais">
+        <item>Brasil</item>
+        <item>Canada</item>
+        <item>Chile</item>
+        <item>Françã</item>
+        <item>Inglatera</item>
+        <item>Peru</item>
+    </string-array>
+
+    <string-array name="spinner_estados">
+        <item>Aleatorio</item>
+        <item>Bahia</item>
+        <item>Mato Grosso</item>
+        <item>Parana</item>
+        <item>Rio de Janeiro</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+    </string-array>
+
+    <string-array name="spinner_cidades">
+        <item>Aleatoria</item>
+        <item>Perola do Oeste</item>
+        <item>São Paulo</item>
+        <item>Rio de Janeiro</item>
+        <item>Cascavel</item>
+        <item>Olimpia</item>
+    </string-array>
+
+    <string-array name="spinner_paisagem">
+        <item>Aleatoria</item>
+        <item>Natural</item>
+        <item>Urbana</item>
+    </string-array>
+
+    <string-array name="spinner_atracao">
+        <item>Aleatoria</item>
+        <item>Sim</item>
+        <item>Não</item>
+    </string-array>
+
+
+
+</resources>
